@@ -1,0 +1,4 @@
+def print_greetings(Contents):
+    print(Contents)
+
+type(Contents)
